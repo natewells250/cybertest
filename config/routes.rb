@@ -61,7 +61,6 @@ CtfRegistration::Application.routes.draw do
     member do
       get :resume
       get :transcript
-      get :download
     end
   end
 
